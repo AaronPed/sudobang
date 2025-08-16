@@ -10,7 +10,7 @@ apt update!   # becomes: sudo apt update
 docker ps!    # becomes: sudo docker ps
 ```
 
-## Instalation
+## Installation
 ```sh
 git clone https://github.com/aaronped/sudobang.git
 cd sudobang
@@ -42,7 +42,7 @@ export SUDOBANG_PREFIX="doas "
 ```
 # Roadmap
 
-- [ ] Some saftey guards (maybe)
+- [ ] Some safety guards (maybe)
 - [ ] Packaging
 - [ ] Unit tests
 
