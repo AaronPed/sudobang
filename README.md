@@ -34,7 +34,7 @@ source /path/to/sudobang/shell/sudobang.bash
 source /path/to/sudobang/shell/sudobang.fish
 ```
 
-If you want to change the prefix string (e.g. to `doas`) just set the enviremonet variable:
+If you want to change the prefix string (e.g. to `doas`) just set the environment variable:
 
 ```bash
 export SUDOBANG_PREFIX="doas "
